@@ -1,7 +1,7 @@
 La idea es ir poniendo ideas aqui y como se llegó a ellas para que tengan sentido.
 Formato:// Nombre(apodo) Autor, #.Idea, #.# Sub idea, * como se llega a la idea
 
-//Indian *la mayoria de las ideas las he estado puliendo con los consejos del canal de youtube que les dije
+//Camilo *la mayoria de las ideas las he estado puliendo con los consejos del canal de youtube que les dije
 1. la historia de un robot/cyborg descubriendo su humanidad. 
 *estaba escuchando steam powered giraffe y su tematica tiene mucho potencial narrativo.
 1.1. un distopia en donde un "creado" tenga un tratamiento como somni en cloud atlas
@@ -17,3 +17,10 @@ el hijo seria una combinacion del personaje custom y la plantilla.
 
 3. tener una introduccion donde se actue rapidamente con ropa y cosas que cubran la cara (armadura)
 cuando termine el tutorial y se llegue a un "safehouse" se pueda personalizar el personaje
+
+//Lina
+1.muy loco si hacemos el videojuego sobre la memoria? Alguien que o lo recuerde todo o no recuerde nada ya sea a corto o largo plazo?
+*Es que... ahorita miré mis tennis que no me ponía hace rato porque recordaba que se habían puesto incómodos con el tiempo y al mirarlos pensé en el día en el que los compré y quise recordar quién fue conmigo y cómo fue el día. No lo logré y me pareció triste olvidar eso. Después pensé que sería muy útil recordarlo todo y que a mí no me molestaría poder acceder a mis recuerdos sin la subjetividad de lo que mi mente ha decidido que debe quedar guardado, porque así podría tomar decisiones más informadas y que me sirvan más. Después recordé haber hablado sobre eso desde otro punto de vista y haber llegado a la conclusión de que es imposible recordarlo todo porque para eso toca volver a vivir lo que uno está recordando, o sea que se va el mismo tiempo en recordar que el que se tomó uno en vivir y eso no es eficiente.
+1.1. //Camilo
+    se puede vincular la adquisicion de habilidades de un personaje en recordar como las adquirio la primera vez. es decir que se puede hacer un mapa mental de experiencias que lo lleven a uno a recordar cosas
+    
